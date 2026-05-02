@@ -1,0 +1,76 @@
+user_id,listening_date,avg_valence,mood_trend,rolling_mean_valence_3d,trend_class,risk_score,risk_rank,mood_status,emotional_intensity,final_state,transition_path
+user_001,2026-05-03,0.357,0.064,0.341,improving,0.2008,442,Prolonged Low Mood,26.827204,Recovering,neutral -> light positive -> energetic
+user_002,2026-05-03,0.478,0.135,0.423,improving,0.3068,121,Normal,28.06372,Recovering,neutral -> light positive -> energetic
+user_003,2026-05-03,0.493,0.113,0.42,improving,0.1902,495,Normal,13.10508,Recovering,neutral -> light positive -> energetic
+user_004,2026-05-03,0.471,0.033,0.486,improving,0.1822,535,Normal,23.681252,Recovering,neutral -> light positive -> energetic
+user_005,2026-05-03,0.418,-0.094,0.459,worsening,0.2406,283,Normal,28.051592,Stable,neutral -> light positive -> energetic
+user_006,2026-05-03,0.451,-0.006,0.445,stable,0.0901,1029,Normal,18.552916,Stable,neutral -> light positive -> energetic
+user_007,2026-05-03,0.399,-0.076,0.442,worsening,0.1365,787,Normal,13.485561,Critical,neutral -> light positive -> energetic
+user_008,2026-05-03,0.302,-0.375,0.482,worsening,0.4716,13,Normal,9.957277,Critical,neutral -> light positive -> energetic
+user_009,2026-05-03,0.259,-0.162,0.356,worsening,0.2591,221,Normal,17.059101,Critical,reflective -> neutral -> light positive -> energetic
+user_010,2026-05-03,0.458,0.003,0.455,stable,0.1115,926,Normal,25.42047,Recovering,neutral -> light positive -> energetic
+user_011,2026-05-03,0.414,0.007,0.436,stable,0.1124,921,Normal,21.522112,Recovering,neutral -> light positive -> energetic
+user_012,2026-05-03,0.544,0.088,0.51,improving,0.1696,589,Normal,14.721882,Recovering,light positive -> energetic
+user_013,2026-05-03,0.428,0.06,0.417,improving,0.1136,915,Normal,10.269573,Recovering,neutral -> light positive -> energetic
+user_014,2026-05-03,0.429,0.026,0.429,improving,0.1055,959,Normal,20.380323,Recovering,neutral -> light positive -> energetic
+user_015,2026-05-03,0.382,-0.051,0.451,worsening,0.1173,891,Normal,15.074027,Critical,neutral -> light positive -> energetic
+user_016,2026-05-03,0.476,0.033,0.481,improving,0.1506,697,Normal,22.97577,Recovering,neutral -> light positive -> energetic
+user_017,2026-05-03,0.484,0.102,0.423,improving,0.166,611,Normal,12.087915,Recovering,neutral -> light positive -> energetic
+user_018,2026-05-03,0.407,0.009,0.44,stable,0.1304,821,Normal,25.446486,Recovering,neutral -> light positive -> energetic
+user_019,2026-05-03,0.329,-0.134,0.423,worsening,0.2216,360,Normal,16.51052,Critical,neutral -> light positive -> energetic
+user_020,2026-05-03,0.487,-0.003,0.469,stable,0.0693,1120,Normal,15.718101,Stable,neutral -> light positive -> energetic
+user_021,2026-05-03,0.498,0.018,0.461,stable,0.1472,715,Normal,22.762537,Recovering,neutral -> light positive -> energetic
+user_022,2026-05-03,0.354,0.027,0.369,improving,0.0668,1131,Normal,12.866631,Recovering,neutral -> light positive -> energetic
+user_023,2026-05-03,0.444,-0.062,0.474,worsening,0.1378,780,Normal,16.106724,Stable,neutral -> light positive -> energetic
+user_024,2026-05-03,0.406,-0.051,0.453,worsening,0.1967,461,Normal,26.702908,Stable,neutral -> light positive -> energetic
+user_025,2026-05-03,0.472,-0.046,0.487,worsening,0.1073,953,Normal,13.484634,Stable,neutral -> light positive -> energetic
+user_026,2026-05-03,0.358,-0.07,0.4,worsening,0.1458,724,Normal,19.395123,Critical,neutral -> light positive -> energetic
+user_027,2026-05-03,0.473,-0.009,0.438,stable,0.044,1201,Normal,9.703171,Stable,neutral -> light positive -> energetic
+user_028,2026-05-03,0.628,0.13,0.533,improving,0.1814,539,Normal,6.510339,Recovering,light positive -> energetic
+user_029,2026-05-03,0.439,0.003,0.405,stable,0.1415,756,Normal,24.743105,Recovering,neutral -> light positive -> energetic
+user_030,2026-05-03,0.469,-0.019,0.431,stable,0.1175,889,Normal,19.976826,Stable,neutral -> light positive -> energetic
+user_031,2026-05-03,0.407,-0.085,0.454,worsening,0.1736,575,Normal,16.319069,Stable,neutral -> light positive -> energetic
+user_032,2026-05-03,0.387,-0.079,0.428,worsening,0.197,460,Normal,22.34596,Critical,neutral -> light positive -> energetic
+user_033,2026-05-03,0.489,0.027,0.503,improving,0.1396,770,Normal,21.287426,Recovering,neutral -> light positive -> energetic
+user_034,2026-05-03,0.481,0.077,0.448,improving,0.1662,609,Normal,14.690727,Recovering,neutral -> light positive -> energetic
+user_035,2026-05-03,0.415,-0.021,0.416,worsening,0.0779,1086,Normal,14.400419,Stable,neutral -> light positive -> energetic
+user_036,2026-05-03,0.58,0.071,0.489,improving,0.1267,839,Normal,11.8378525,Recovering,light positive -> energetic
+user_037,2026-05-03,0.484,-0.092,0.496,worsening,0.1609,637,Normal,13.629295,Stable,neutral -> light positive -> energetic
+user_038,2026-05-03,0.443,-0.019,0.457,stable,0.0824,1067,Normal,14.967457,Stable,neutral -> light positive -> energetic
+user_039,2026-05-03,0.398,0.061,0.382,improving,0.1794,549,Normal,22.35903,Recovering,neutral -> light positive -> energetic
+user_040,2026-05-03,0.502,0.174,0.415,improving,0.3153,104,Normal,17.382103,Recovering,light positive -> energetic
+user_041,2026-05-03,0.405,0.002,0.414,stable,0.1122,923,Normal,22.964344,Recovering,neutral -> light positive -> energetic
+user_042,2026-05-03,0.467,0.25,0.351,improving,0.4097,26,Normal,20.022085,Recovering,neutral -> light positive -> energetic
+user_043,2026-05-03,0.509,0.085,0.501,improving,0.1439,739,Normal,11.741085,Recovering,light positive -> energetic
+user_044,2026-05-03,0.466,0.055,0.428,improving,0.0885,1036,Normal,8.010502,Recovering,neutral -> light positive -> energetic
+user_045,2026-05-03,0.49,0.125,0.433,improving,0.1719,580,Normal,8.889336,Recovering,neutral -> light positive -> energetic
+user_046,2026-05-03,0.424,0.041,0.392,improving,0.1496,703,Normal,19.88116,Recovering,neutral -> light positive -> energetic
+user_047,2026-05-03,0.46,0.006,0.427,stable,0.11,936,Normal,21.803879,Recovering,neutral -> light positive -> energetic
+user_048,2026-05-03,0.316,-0.079,0.374,worsening,0.1784,553,Normal,19.682732,Critical,neutral -> light positive -> energetic
+user_049,2026-05-03,0.359,-0.061,0.416,worsening,0.1474,713,Normal,17.219582,Critical,neutral -> light positive -> energetic
+user_050,2026-05-03,0.413,-0.022,0.444,worsening,0.0622,1145,Normal,10.683201,Stable,neutral -> light positive -> energetic
+user_051,2026-05-03,0.455,-0.107,0.455,worsening,0.2393,286,Normal,23.133232,Stable,neutral -> light positive -> energetic
+user_052,2026-05-03,0.494,0.088,0.424,improving,0.1762,562,Normal,17.178442,Recovering,neutral -> light positive -> energetic
+user_053,2026-05-03,0.568,0.202,0.425,improving,0.2879,154,Normal,11.690519,Recovering,light positive -> energetic
+user_054,2026-05-03,0.544,0.186,0.466,improving,0.3038,126,Normal,16.969807,Recovering,light positive -> energetic
+user_055,2026-05-03,0.414,-0.061,0.434,worsening,0.1582,651,Normal,16.747063,Stable,neutral -> light positive -> energetic
+user_056,2026-05-03,0.437,0.002,0.451,stable,0.071,1113,Normal,17.459906,Recovering,neutral -> light positive -> energetic
+user_057,2026-05-03,0.497,-0.014,0.505,stable,0.0862,1048,Normal,15.648175,Stable,neutral -> light positive -> energetic
+user_058,2026-05-03,0.447,0.031,0.377,improving,0.1243,850,Normal,18.819254,Recovering,neutral -> light positive -> energetic
+user_059,2026-05-03,0.338,-0.091,0.398,worsening,0.1645,619,Normal,16.005142,Critical,neutral -> light positive -> energetic
+user_060,2026-05-03,0.394,-0.072,0.433,worsening,0.2227,355,Normal,27.935497,Critical,neutral -> light positive -> energetic
+user_061,2026-05-03,0.41,0.042,0.432,improving,0.1771,558,Normal,24.62848,Recovering,neutral -> light positive -> energetic
+user_062,2026-05-03,0.349,-0.119,0.437,worsening,0.2125,390,Normal,18.862598,Critical,neutral -> light positive -> energetic
+user_063,2026-05-03,0.418,0.072,0.439,improving,0.1974,456,Normal,22.766657,Recovering,neutral -> light positive -> energetic
+user_064,2026-05-03,0.456,0.086,0.379,improving,0.2016,438,Normal,20.707611,Recovering,neutral -> light positive -> energetic
+user_065,2026-05-03,0.397,0.026,0.411,improving,0.138,778,Normal,25.634232,Recovering,neutral -> light positive -> energetic
+user_066,2026-05-03,0.532,0.089,0.467,improving,0.1445,733,Normal,11.325368,Recovering,light positive -> energetic
+user_067,2026-05-03,0.512,0.098,0.427,improving,0.1845,523,Normal,14.864996,Recovering,light positive -> energetic
+user_068,2026-05-03,0.307,-0.136,0.421,worsening,0.3141,110,Normal,29.650959,Critical,neutral -> light positive -> energetic
+user_069,2026-05-03,0.449,-0.019,0.441,stable,0.1398,769,Normal,22.576868,Stable,neutral -> light positive -> energetic
+user_070,2026-05-03,0.43,0.001,0.434,stable,0.0453,1197,Normal,13.332801,Recovering,neutral -> light positive -> energetic
+user_071,2026-05-03,0.462,-0.08,0.479,worsening,0.1858,518,Normal,20.895472,Stable,neutral -> light positive -> energetic
+user_072,2026-05-03,0.401,-0.1,0.477,worsening,0.1771,558,Normal,14.826368,Stable,neutral -> light positive -> energetic
+user_073,2026-05-03,0.533,0.067,0.437,improving,0.1758,564,Normal,19.544743,Recovering,light positive -> energetic
+user_074,2026-05-03,0.356,-0.187,0.439,worsening,0.3463,65,Normal,25.524134,Critical,neutral -> light positive -> energetic
+user_075,2026-05-03,0.478,0.002,0.496,stable,0.0409,1205,Normal,10.884137,Recovering,neutral -> light positive -> energetic
